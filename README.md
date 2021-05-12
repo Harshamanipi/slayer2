@@ -15,4 +15,4 @@ Download the yolov3.weights file from [Here]( https://pjreddie.com/media/files/y
 
 # Sample Video - 
 
-The sample Video used for this project is obtained from the [University of Oxford - Active Vision](http://www.robots.ox.ac.uk/ActiveVision/)
+The sample Video used for this project is obtained by Aquel anwar
