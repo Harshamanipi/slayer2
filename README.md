@@ -1,9 +1,6 @@
 #Demo
 
-https://github.com/Harshamanipi/slayer2/blob/main/image.gif
-
-
-
+![result.png](https://github.com/Harshamanipi/slayer2/blob/main/image.gif)
 
 
 
